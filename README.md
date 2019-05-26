@@ -1,6 +1,6 @@
 ## ReadySetGo
 
-### Practicing basic constructs of Golang
+### Practicing Golang
 
 #### Analysis Table
 
